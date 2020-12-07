@@ -202,6 +202,7 @@ Navbar
   color: var(--clr-primary-5);
   cursor: pointer;
   transition: var(--transition);
+  outline: 0;
 }
 .nav-toggle:hover {
   transform: scale(1.2);
